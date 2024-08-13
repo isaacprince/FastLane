@@ -1,5 +1,5 @@
 
-# FastLanse User Management
+# FastLane User Management
 FastLanse is a user management application built using Express, EJS, and SQLite. This project provides a streamlined interface for managing users with functionalities supported by a backend powered by Express and a lightweight SQLite database.
 
 # Updates
@@ -22,4 +22,4 @@ Once the server is running, you can access the user management interface through
 Contributions to FastLanse are welcome. Please fork the repository and submit a pull request with your proposed changes.
 
 # Contact
-For any inquiries or issues, please contact [sirprinceisaac@gmail.com].
+For any inquiries or issues, please contact [isaacprince002@gmail.com].
